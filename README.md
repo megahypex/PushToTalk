@@ -1,2 +1,1 @@
-# cool_work
-I'll be commiting some of my cool work
+# I'll be committing some of my cool work in this repository, mainly with Python
