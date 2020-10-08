@@ -8,5 +8,5 @@ Works with all browsers!
 
 Hotkey : ALT
 
-## Feel free to make Pull and Push requests and help me add more features
+## Feel free to make Pull requests and help me add more features
 ## View the Issues to see what you can do
